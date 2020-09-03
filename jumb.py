@@ -1,5 +1,4 @@
 import random
-import python
 def choose():
     words=['rainbow','compare','light','dark','horses','player','dusky','knighthood','hendricks']
     pick=random.choice(words)
